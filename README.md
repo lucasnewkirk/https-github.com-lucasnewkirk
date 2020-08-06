@@ -1,4 +1,4 @@
-![Hello](https://uk.scalable.capital/images/3x3i7a9xgm11/2PocShbXRLmU4X4eUE9tud/327305228e81cfff71273eb7559d8a92/hello_world_new_black.png)
+![Hello](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 
 <h1>Hi, Everyone!</h1> 
 
