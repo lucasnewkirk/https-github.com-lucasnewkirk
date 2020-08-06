@@ -1,4 +1,4 @@
-![Hello](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
+![Hello](https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif)
 
 <h1>Hi, Everyone!</h1> 
 
