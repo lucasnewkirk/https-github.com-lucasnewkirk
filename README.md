@@ -1,10 +1,12 @@
 <h1>Hi, Everyone!</h1> 
 
+---
 <h4>Thank you for visiting my Github page!</h4>
 
 
 <p>If you've come to check out things that I've done, I must apologize because there's not much to check out currently. Most of my Github work is locked in an Enterprise Github account since I focus a lot of my time completing projects for work. However, I plan to bring more fun to my personal page soon! :tada::tada:. Here is my <a href="https://www.linkedin.com/in/lucas-newkirk/" target="_blank">LinkedIn profile</a>; feel free to connect!</p> 
 
+---
 <h4>A Little About Me</h4>
 <p>
 I am currently a Data Scientist at GE Healthcare, where I've been for 5+ years in various analytical roles. I have a Master's degree in Data Science from the University of Wisconsin - La Crosse. I use both R and Python but I prefer Python's robust data science toolsets (pandas, numpy, sklearn, etc). I have experience in the following areas:
@@ -44,6 +46,8 @@ I am currently a Data Scientist at GE Healthcare, where I've been for 5+ years i
   
 </p>
 
-
+---
 <h4>Goals  :dart:</h4>
 <p>I'm working to learn the more advanced machine learning frameworks for deep learning: Tensorflow and Pytorch. I'm studying and practicing the syntax for both and will be uploading what I learn here, along with other things I pick up along the way.</p>
+
+---
