@@ -46,4 +46,4 @@ I am currently a Data Scientist at GE Healthcare, where I've been for 5+ years i
 
 
 <h4>Goals  :dart:</h4>
-<p>I'm working to learn the more advanced machine learning frameworks: Tensorflow and Pytorch. I'm studying and practicing the syntax for both and will be uploading what I learn here, along with other things I pick up along the way.</p>
+<p>I'm working to learn the more advanced machine learning frameworks for deep learning: Tensorflow and Pytorch. I'm studying and practicing the syntax for both and will be uploading what I learn here, along with other things I pick up along the way.</p>
