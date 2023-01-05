@@ -11,7 +11,7 @@
 ---
 <h4>A Little About Me</h4>
 <p>
-I am currently a Data Scientist at GE Healthcare, where I've been for 5+ years in various analytical roles. I have a Master's degree in Data Science from the University of Wisconsin - La Crosse. I use both R and Python but I prefer Python's robust data science toolsets (pandas, numpy, sklearn, etc). I have experience in the following areas:
+  I am currently an Analytical Applications Engineer at <a href="https://www.chubb.com/us-en/">Chubb</a>. Previously, I worked at GE Healthcare for 7+ years in various analytical roles. I have a Bachelor's degree in Business Management, a Master's degree in Data Science, and an MBA with emphasis on Analytics. I use both R and Python but I prefer Python's robust data science toolsets (pandas, numpy, sklearn, etc). I have experience in the following areas:
   
 - [x] Data engineering tasks, such as:
   <ul>
